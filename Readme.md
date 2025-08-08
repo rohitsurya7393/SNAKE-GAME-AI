@@ -11,7 +11,7 @@
 ## 🎥 Demo
 
 Watch the AI in action:  
-📺 [Click to Watch Demo Video](https://link-to-demo)
+📺 [Click to Watch Demo Video](https://github.com/rohitsurya7393/SNAKE-GAME-AI/releases/download/demo/ppt_movie_clip.mp4)
 
 ---
 
